@@ -8,3 +8,7 @@ While GeoTIFF files are usually large and impractical to send over the wire, the
 
 For more functionality including changing color palette and display range, visit the [eox.at](https://eox.at/tag/geotiff/) website.
 
+## Demo
+
+[https://pbabik.github.io/webraster/](https://pbabik.github.io/webraster/)
+
